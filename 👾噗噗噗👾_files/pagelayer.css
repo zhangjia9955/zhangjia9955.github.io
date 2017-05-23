@@ -1,0 +1,198 @@
+.w-pagelayer {
+	
+}
+.w-pagelayer .pagelayer {
+	left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; bottom: 0px; position: fixed; z-index: 500; _position: absolute;
+}
+.w-pagelayer .pagelayer .lyloading {
+	background: url("http://l.bst.126.net/rsc/img/load.gif") no-repeat 0px 0px; left: 48%; top: 50%; width: 58px; height: 10px; position: absolute; z-index: 5;
+}
+.w-pagelayer .pagelayer .lycover {
+	width: 100%; height: 100%; visibility: hidden; opacity: 0.5; background-color: rgb(0, 0, 0);
+}
+.w-pagelayer .pagelayer .lycover {
+	
+}
+.w-pagelayer .pagelayer .lyscroll {
+	left: 0px; top: 0px; right: 0px; bottom: 0px; position: absolute; z-index: 201; -ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+.w-pagelayer .pagelayer .lybody {
+	margin: 0px auto; padding: 40px 0px; width: 800px;
+}
+.w-pagelayer .pagelayer .lybody .lycont {
+	-ms-zoom: 1;
+}
+.w-pagelayer .pagelayer .lyclosed {
+	background: url("/rsc/img/loginopen/login-24.png") no-repeat 0px -1290px; top: 20px; width: 32px; height: 30px; right: 35px; display: none; position: fixed; _position: absolute; _background: url(/rsc/img/loginopen/login.png) no-repeat 0 -1290px;
+}
+.w-pagelayer .pagelayer .lyclosed:hover {
+	background-position: -114px -1290px;
+}
+.w-pagelayer .pagelayer .a-scale {
+	transition:opacity 0.3s; display: block; opacity: 0; -webkit-transition: opacity 0.3s; -moz-transition: opacity 0.3s; -o-transition: opacity 0.3s;
+}
+.w-pagelayer .pagelayer .a-scale-do {
+	display: block; opacity: 1;
+}
+.w-pagelayer-reglogin {
+	
+}
+.w-pagelayer-reglogin .pagelayer {
+	
+}
+.w-pagelayer-reglogin .pagelayer .lybody {
+	padding: 0px; width: 1080px;
+}
+.w-pagelayer-reglogin .m-reglogin {
+	text-align: center;
+}
+.w-pagelayer-reglogin .m-reglogin .logo {
+	margin: 0px auto 35px; width: 380px; _background: none;
+}
+.w-pagelayer-reglogin .m-reglogin .logo span {
+	display: block;
+}
+.w-pagelayer-reglogin .m-reglogin .logo .f1 {
+	background: url("/rsc/img/loginopen/201406/btn.png?002") no-repeat -2px 0px; height: 108px; text-indent: -9999px;
+}
+.w-pagelayer-reglogin .m-reglogin .logo .f2 {
+	width: 395px; color: rgb(255, 255, 255); letter-spacing: 15px; font-size: 16px; font-weight: normal; text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+}
+.w-pagelayer-reglogin .m-reglogin .logo .f3 {
+	letter-spacing: 9px; display: inline;
+}
+.w-pagelayer-reglogin .m-reglogin .iframewrap {
+	width: 1080px;
+}
+.w-pagelayer-reglogin .m-reglogin iframe {
+	
+}
+.w-pagelayer-reglogin .pagelayer .lyclosed {
+	background: url("/rsc/img/loginopen/closebtn24.png") no-repeat 0px 0px; border: currentColor; border-image: none; width: 50px; height: 50px; _background: url(/rsc/img/loginopen/closebtn24.png) no-repeat 0 0;
+}
+.w-pagelayer-reglogin .pagelayer .lyclosed {
+	transition:none; -webkit-transition: none; -moz-transition: none; -o-transition: none;
+}
+.w-pagelayer-reglogin .pagelayer .lyclosed:hover {
+	background-position: -100px 0px;
+}
+#control_frame {
+	transition:0.3s linear; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear;
+}
+.f-trans {
+	transition:0.3s linear; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear;
+}
+.w-pagelayer-reglogin2 {
+	
+}
+.w-pagelayer-reglogin2 .pagelayer .lybody {
+	width: 1080px;
+}
+.w-pagelayer-reglogin2 .m-reglogin {
+	position: relative; -ms-zoom: 1;
+}
+.w-pagelayer-reglogin2 .m-reglogin .close {
+	background: rgb(255, 255, 255); border: currentColor; border-image: none; top: 16px; width: 28px; height: 28px; right: 134px; color: rgb(0, 0, 0); text-indent: -9999px; text-decoration: none; position: absolute; cursor: pointer;
+}
+.w-pagelayer-reglogin2 .m-reglogin .close:hover {
+	border: currentColor; border-image: none; text-decoration: none;
+}
+.w-pagelayer-reglogin2 .m-reglogin .close span {
+	background: url("/rsc/img/newloginiframe2/close.png?001") no-repeat 0px 0px; width: 100%; height: 100%; display: block;
+}
+.w-pagelayer-reglogin2 .m-reglogin .close:hover span {
+	opacity: 0.8;
+}
+.w-pagelayer-reglogin2 .m-reglogin .iframewrap {
+	width: 1080px;
+}
+.m-cprt a {
+	border: currentColor; border-image: none;
+}
+.f-trans.m-regGuideLayer {
+	transition:0.3s linear; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear;
+}
+.m-regGuideLayer {
+	left: 0px; width: 100%; height: 80px; right: 0px; bottom: 0px; position: fixed; z-index: 10; _display: none;
+}
+.m-regGuideLayer {
+	margin-bottom: -80px;
+}
+.js-show-regGuideLayer {
+	margin-bottom: 0px;
+}
+.m-regGuideLayer .regwrap {
+	margin: 0px auto; padding: 17px 0px; width: 350px; height: 46px; position: relative; z-index: 10;
+}
+.m-regGuideLayer .regwrap .tip {
+	height: 46px; color: rgb(51, 51, 51); line-height: 46px; font-size: 26px; float: left;
+}
+.m-regGuideLayer .regwrap .goreg {
+	background: rgb(123, 169, 51); width: 120px; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 42px; font-size: 20px; text-decoration: none; margin-top: 2px; float: right;
+}
+.m-regGuideLayer .regwrap .goreg {
+	border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px;
+}
+.m-regGuideLayer .bg {
+	background: rgb(255, 255, 255); left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; bottom: 0px; position: absolute; z-index: 5; opacity: 0.9;
+}
+.m-regGuideLayer .shadow {
+	left: 0px; top: -32px; width: 100%; height: 32px; right: 0px; position: absolute; _display: none;
+}
+.m-regGuideLayer .shadow {
+	background: url("/rsc/img/loginopen/201406/shadow.png?v=001") no-repeat top;
+}
+.m-usersplash {
+	background: rgb(255, 255, 255); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; right: 0px; bottom: 0px; display: table; position: fixed; z-index: 2000; -ms-overflow-y: auto; _position: absolute;
+}
+.m-usersplash .usersplash {
+	vertical-align: middle; display: table-cell; max-width: 100%; _width: 100%;
+}
+.m-usersplash .usersplash img {
+	vertical-align: middle; display: inline; max-width: 100%; _width: 100%;
+}
+.m-usersplash .usersplash {
+	
+}
+.m-usersplash .usersplash img {
+	
+}
+.m-usersplash-scroll {
+	display: block;
+}
+.m-usersplash-scroll .usersplash {
+	display: block;
+}
+.m-usersplashswrap .f-trans {
+	transition:opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;
+}
+.m-usersplashswrap .m-usersplash {
+	visibility: hidden !important; opacity: 0 !important;
+}
+.m-usersplashswrap .m-usersplash img {
+	visibility: hidden !important; opacity: 0 !important;
+}
+.m-usersplashswrap .m-usersplash-show {
+	visibility: visible !important;
+}
+.m-usersplashswrap .m-usersplash img.js-imgshow {
+	visibility: visible !important;
+}
+.m-usersplashswrap .m-usersplash-show-animate {
+	opacity: 1 !important;
+}
+.m-usersplashswrap .m-usersplash img.js-imgshow-animate {
+	opacity: 1 !important;
+}
+.m-usersplash-0 {
+	z-index: 2002;
+}
+.m-usersplash-1 {
+	z-index: 2001;
+}
+.m-usersplash-2 {
+	z-index: 2000;
+}
+video {
+	max-width: 100%;
+}
